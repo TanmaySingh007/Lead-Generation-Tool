@@ -1,0 +1,11 @@
+name,website,linkedin,industry,size,country,score
+GitHub,https://github.com,https://linkedin.com/company/github,Software Development,1000-5000,US,5
+Slack,https://slack.com,https://linkedin.com/company/slack,Collaboration,1000-5000,US,5
+LinkedIn,https://linkedin.com,https://linkedin.com/company/linkedin,Social Media,10000+,US,4
+Stripe,https://stripe.com,https://linkedin.com/company/stripe,Financial Services,1000-5000,US,4
+Zendesk,https://zendesk.com,https://linkedin.com/company/zendesk,Customer Service,1000-5000,US,4
+Mailchimp,https://mailchimp.com,https://linkedin.com/company/mailchimp,Marketing,500-1000,US,4
+Trello,https://trello.com,https://linkedin.com/company/trello,Productivity,100-500,US,3
+Canva,https://canva.com,https://linkedin.com/company/canva,Design,500-1000,AU,2
+Shopify,https://shopify.com,https://linkedin.com/company/shopify,E-commerce,5000-10000,CA,2
+Notion,https://notion.so,https://linkedin.com/company/notion-labs,Productivity,100-500,US ,1
